@@ -5,7 +5,7 @@ Data Analysis Sales Project Using Excel & Power Query
 
 Welcome to the **Sales Report Analysis** repository! This project provides a detailed analysis of sales data using **Excel** and **Power Query**. Below is a summary of the key features and insights presented in the report. 
 
-![Demo GIF](Images/Sales_Excel_Project_001.jpg)  
+![Demo GIF](EXCEL_BMTPWYvzsI.gif)  
 *Demo of the Sales Analysis Workflow*
 
 ## 🚀 Features
@@ -25,21 +25,22 @@ The **Overview** tab provides a high-level view of the entire sales data, with k
 
 Here's a snapshot of the **Overview** dashboard:
 
-![Overview Tab](path_to_overview_image.png)
+![Overview Tab](Images/Sales_Excel_Project_002.jpg)
 
-## 👥 Customer Product Tab
+## 👥 Customer  Tab
 
-The **Customer Product** tab digs deeper into customer-specific and product-specific data, helping to answer questions such as:
+The **Customer ** tab digs deeper into customer-specific data, helping to answer questions such as:
 - Who are our top customers? 🏆
+
+
+![Customers Tab](Images/Sales_Excel_Project_004.jpg)
+
+## 📑 Product Tab
+
+The **Product ** tab digs deeper into product-specific data, helping to answer questions such as:
 - Which products are performing best? 📦
 
-![Customer Product Tab](path_to_customer_product_image.png)
-
-## 📑 Model Table Tab
-
-In the **Model Table** tab, you'll find detailed, clean data that’s ready for deeper analysis. This data is organized for easy manipulation and advanced analytics.
-
-![Model Table Tab](path_to_model_table_image.png)
+![products Tab](Images/Sales_Excel_Project_005.jpg)
 
 ---
 
