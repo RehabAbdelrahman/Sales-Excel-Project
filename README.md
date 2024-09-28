@@ -5,7 +5,7 @@ Data Analysis Sales Project Using Excel & Power Query
 
 Welcome to the **Sales Report Analysis** repository! This project provides a detailed analysis of sales data using **Excel** and **Power Query**. Below is a summary of the key features and insights presented in the report. 
 
-![Demo GIF](path_to_demo_gif.gif)  
+![Demo GIF](Images/Sales_Excel_Project_001.jpg)  
 *Demo of the Sales Analysis Workflow*
 
 ## 🚀 Features
