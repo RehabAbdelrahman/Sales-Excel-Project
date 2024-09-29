@@ -51,8 +51,4 @@ The **Product ** tab digs deeper into product-specific data, helping to answer q
 
 ---
 
-## 📈 How to Use
 
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/sales-report-analysis.git
